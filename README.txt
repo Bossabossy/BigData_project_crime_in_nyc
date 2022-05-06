@@ -1,6 +1,3 @@
-# BigData_project_crime_in_nyc
-nc2325 code and documents about crimes and violation data in NYC
-
 --Author Boss nc2325 and Minsu ms11108
 
 --attemp to run the code by ctrlc ctrlv the code usually doesn't work due to quotation symbol (') issue
