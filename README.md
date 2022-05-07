@@ -1,7 +1,12 @@
 # BigData_project_crime_in_nyc
+If you are reader from my article from medium.com Welcome!
+if you are interested in following the instrction on how to run the code, the source_code file has all the code and instruction with comments on them. 
+For the images on how stuff should run on HDFS or HIVE, check the Project_evidence_screenshot file, it has picture of the terminal included in it. 
+The rest of the message are only useful to NYC facaulty who will be checking my work.
+
 nc2325 code and documents about crimes and violation data in NYC
 
---Author Boss nc2325 and Minsu ms11108
+--Author Boss and Minsu
 
 --attemp to run the code by ctrlc ctrlv the code usually doesn't work due to quotation symbol (') issue
 --try to retype every quotationmark inorder for stuff to runs smoothly
